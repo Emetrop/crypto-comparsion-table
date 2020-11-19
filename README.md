@@ -1,4 +1,4 @@
-# Crypto Compare Table
+# Crypto Comparsion Table
 ## Intro
 
 Thanks for your interest! Our React.js technical interview process involves candidates doing an at-home (or at work, or at Costa) project to test your React.js knowledge and problem solving abilities, while also giving you a chance to write code in a way that you find comfortable.
